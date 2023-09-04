@@ -1,2 +1,2 @@
 #!/bin/bash
- -t . | head
+la -t . | head
